@@ -1,0 +1,11 @@
+Movie Trailer Project
+
+This application opens a web page displaying a list of my favorite movies. You will find the movies posters, titles, and you'll be able to see the movies trailers by clicking on their posters.
+
+
+Prerequisite: Check that you have wifi connection
+
+To run this application, follow the next steps:
+
+1. Open the file entertainment_center.py with Idle
+2. Run it
